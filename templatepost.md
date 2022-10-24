@@ -1,7 +1,7 @@
 ---
 title: Title goes here
 description: description goes here
-date: enter date yyyy-mm-dd
+date: 2022-10-24
 tags:
   - tags
   - like
