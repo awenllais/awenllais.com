@@ -1,5 +1,5 @@
 ---
-title: Of HTML, markdown, Tumblr, and Archive of Our Own
+title: Of HTML, Markdown, Tumblr, and Archive of Our Own
 description: A brief look at first experiences with web development
 date: 2022-10-24
 tags:
@@ -31,7 +31,7 @@ It feels like regression, like you're going back to being too depressed to move,
 ## Today.
 
 I don't write much anymore, the busyness has very much crept in again, but for that time in isolation with the pandemic, I fell back into it. It was simultaneously the best and worst thing I could've done, and I find myself both grateful and resentful.
-Getting back into fanfiction resulted in me using a site called Archive of Our Own, or AO3 for short - a replacement for older sites, such as Wattpad and Fanfiction.net, AO3 provided so much customisation over my works, meaning I was able to create something I was truly proud of.
+Getting back into fanfiction resulted in me using a site called Archive of Our Own, or AO3 for short - a replacement for older sites, such as Wattpad and Fanfiction-dot-net, AO3 provided so much customisation over my works, meaning I was able to create something I was truly proud of.
 
 You're probably asking 'what the hell does this have to do with HTML?' and the answer is: Everything. AO3 uses a HTML editor in order to format works, and I found myself picking up my old HTML notes just so I'd have a clue of how to do things, and make my fics look nice.
 And there's so much you can do! Looking up AO3 tutorials for HTML helped me add so many little fun & funky elements to make my works really stand out and shine - who doesn't want a choose your own adventure fic? Or a fic with fake tweets (that act like real tweets) and text messages - for me, writing wasn't just about putting the words on the page, it was about how creative I could be with the storytelling, what elements would be fun, what would make it more real?
