@@ -8,9 +8,11 @@
 :root {
   --color-pink-20: #FFA6B7;
   --color-pink-50: #FF6D9B;
-  --color-pink-90: #781F42;
+  --color-pink-90: #CC313D;
 
-  --background-color: #FFE0E7;
+
+  --background-color: #FFD3DF;
+
 
   --text-color: var(--color-pink-90);
   --text-color-link: #FF7AD7;
@@ -28,10 +30,7 @@ body {
   margin: 0;
   font-family: var(--font-family);
   color: var(--text-color);
-  background-color: #FFE0E7;
-  opacity: 0.8;
-  background-size: 42px 42px;
-  background-image:  repeating-linear-gradient(to right, #ffcad7, #ffcad7 2.1px, #FFE0E7 2.1px, #FFE0E7);
+  background-color: var(--background-color);
 }
 
 p:last-child {
