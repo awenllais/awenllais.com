@@ -15,8 +15,8 @@ Other than the ADHD, I'm a wife, a mother, and a live-laugh-lover (I am not a wi
 
 I'm sure this page has given you absolutely zero oversight to me as a person, but if you want to find me elsewhere, you can at:
 
-[Github](https://github.com/awenllais)
-[Twitter](https://twitter.com/awenllais)
-Via Discord at Faeryne#7457
-And email at awenllais@outlook.com
+✦ [Github](https://github.com/awenllais)<br>
+✦ [Twitter](https://twitter.com/awenllais)<br>
+✦ Via Discord at Faeryne#7457<br>
+✦ And email at awenllais@outlook.com<br>
 
