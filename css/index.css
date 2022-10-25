@@ -234,3 +234,6 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #FFB1BB;
 }
+footer {
+  border-bottom: 5px dashed var(--color-pink-20);
+}
