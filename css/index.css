@@ -1,6 +1,6 @@
 /* Defaults */
 :root {
-  --font-family: -apple-system, system-ui, sans-serif;
+  --font-family: Verdana, -apple-system, system-ui, sans-serif;
   --font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
@@ -8,7 +8,7 @@
 :root {
   --color-pink-20: #FFA6B7;
   --color-pink-50: #FF6D9B;
-  --color-pink-90: #CC313D;
+  --color-pink-90: #4c162d;
 
 
   --background-color: #FFD3DF;
