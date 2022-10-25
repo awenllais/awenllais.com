@@ -7,11 +7,16 @@ eleventyNavigation:
   order: 3
 ---
 
-Hi there! I'm sure you've journeyed (relatively) far to make it here, so I'll keep it short:
+## Hi there!
+
 I'm Awen, a current student of the technological dark arts (Computer Science) just doing my best to scrape through as my ADHD-riddled brain focuses on silly little projects like this! But alas, the impulsivity of buying a domain means that I have to use it for *something* - so here we are!
 
-Other than the ADHD, I'm a wife, a mother, and a live-laugh-lover (I am not a wife nor a mother, unless you count my two pet snails...) - slightly obessesed with the colour pink, and also a morning person (or I like to pretend to be) - a Buzzfeed quiz once said my Disney Princess bestie was Cinderella, and I've been riding that high ever since.
+Other than the ADHD, I'm a wife, a mother, and a live-laugh-lover (I am not a wife nor a mother, unless you count my two pet snails) - I'm also a morning person (or I pretend to be), a Leo (Scorpio rising) and one day I hope to learn how to roller skate, like, really well. And also pass my degree (again, like, really well).
 
-This little page isn't any sort of detail about me, unfortunately, but you can contact me on Discord @ Faeryne#7457, or pop me an email at awenllais@outlook.com
+I'm sure this page has given you absolutely zero oversight to me as a person, but if you want to find me elsewhere, you can at:
 
-Anyway, best wishes to you on your continuing journey, and I hope the next stop treats you well!
+[Github](https://github.com/awenllais)
+[Twitter](https://twitter.com/awenllais)
+Via Discord at Faeryne#7457
+And email at awenllais@outlook.com
+

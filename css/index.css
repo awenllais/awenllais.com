@@ -34,11 +34,13 @@ body {
 p:last-child {
   margin-bottom: 0;
 }
-p,
+
+/*p,
 .tmpl-post li,
 img {
   max-width: 800px;
-}
+}*/
+
 p,
 .tmpl-post li {
   line-height: 1.45;
