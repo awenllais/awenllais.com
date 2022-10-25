@@ -1,7 +1,6 @@
 ---
-layout: layouts/post.njk
-title: About
-templateClass: tmpl-post
+layout: layouts/home.njk
+title: Awenllais | About
 eleventyNavigation:
   key: About
   order: 3

@@ -3,9 +3,9 @@ title: Of HTML, Markdown, Tumblr, and Archive of Our Own
 description: A brief look at first experiences with web development
 date: 2022-10-24
 tags:
+  - Chatter
   - Web Development
-  - Ponderings
-  - Learning
+  - Internet
 layout: layouts/post.njk
 ---
 ## Picture this...

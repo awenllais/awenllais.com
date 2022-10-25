@@ -8,7 +8,7 @@
 :root {
   --color-pink-20: #FFA6B7;
   --color-pink-50: #FF6D9B;
-  --color-pink-90: #333;
+  --color-pink-90: #781F42;
 
   --background-color: #FFE0E7;
 
@@ -28,7 +28,10 @@ body {
   margin: 0;
   font-family: var(--font-family);
   color: var(--text-color);
-  background-color: var(--background-color);
+  background-color: #FFE0E7;
+  opacity: 0.8;
+  background-size: 42px 42px;
+  background-image:  repeating-linear-gradient(to right, #ffcad7, #ffcad7 2.1px, #FFE0E7 2.1px, #FFE0E7);
 }
 
 p:last-child {
@@ -239,3 +242,4 @@ a[href].direct-link:focus:visited,
 footer {
   border-bottom: 5px dashed var(--color-pink-20);
 }
+
