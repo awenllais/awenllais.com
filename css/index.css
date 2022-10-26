@@ -1,6 +1,6 @@
 /* Defaults */
 :root {
-  --font-family: "Trebuchet MS", Helvetica, sans-serif
+  --font-family: "Trebuchet MS", Helvetica, sans-serif;
   --font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
@@ -42,7 +42,7 @@ p:last-child {
 img {
   max-width: 800px;
 }
-this needs to be fixed its all fucky*/
+actually just leave this ok - maybe put an image or something to one side so its not so long?? idk*/
 
 p,
 .tmpl-post li {
