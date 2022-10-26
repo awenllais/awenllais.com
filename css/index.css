@@ -1,6 +1,6 @@
 /* Defaults */
 :root {
-  --font-family: Verdana, -apple-system, system-ui, sans-serif;
+  --font-family: "Trebuchet MS", Helvetica, sans-serif
   --font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
@@ -8,14 +8,14 @@
 :root {
   --color-pink-20: #FFA6B7;
   --color-pink-50: #FF6D9B;
-  --color-pink-90: #4c162d;
+  --color-pink-90: #000000;
 
 
   --background-color: #FFD3DF;
 
 
   --text-color: var(--color-pink-90);
-  --text-color-link: #FF7AD7;
+  --text-color-link: #FF6D9B;
   --text-color-link-visited: #FF4997;
 }
 
@@ -41,7 +41,8 @@ p:last-child {
 .tmpl-post li,
 img {
   max-width: 800px;
-}*/
+}
+this needs to be fixed its all fucky*/
 
 p,
 .tmpl-post li {
